@@ -1,0 +1,20 @@
+#logo1 {
+    width: 150px;
+    height: 100px;
+}
+
+.nav-item {
+    margin-left: 80px;
+    font-size: 30px;
+    font-style:oblique;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#nativas {
+    text-align: center;
+}
+
+#ornamentales {
+    text-align: center;
+}
